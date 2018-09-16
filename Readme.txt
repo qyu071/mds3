@@ -2,6 +2,6 @@ MDS3 is an algorithm for the DNA motif discovery using multiple sample sequence 
 
 Install MDS3 by performing 'make' in the root directory of the source codes.
 
-Perform MDS3 by using the command: ./mds ¨Ci inputfile ¨Co outputfolder
+Perform MDS3 by using the command: ./mds -i inputfile -o outputfolder
 
 Note: inputfile should be fasta form and contain at least 1000 sequences.
